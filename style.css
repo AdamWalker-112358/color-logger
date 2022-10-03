@@ -1,0 +1,17 @@
+h1, h2 {
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    color: deeppink;
+}
+
+h2 {
+    margin-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(129, 129, 129);
+}
